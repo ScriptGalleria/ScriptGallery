@@ -4,5 +4,6 @@
 (each script is tested before put on here)
 
 https://discord.gg/GdUVFMSw
-when said script is patched do join and say which script doesnt work
+
+when a script is patched do join and say which script doesnt work
 
