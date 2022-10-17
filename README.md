@@ -6,5 +6,3 @@
 https://discord.gg/GdUVFMSw
 
 these scripts are taken from random sites, discords, youtube videos
-
-
