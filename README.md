@@ -5,5 +5,6 @@
 
 https://discord.gg/GdUVFMSw
 
-when a script is patched do join and say which script doesnt work
+these scripts are taken from random sites, discords, youtube videos
+
 
